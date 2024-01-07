@@ -11,3 +11,5 @@ static void PrintAnyWord(string anyString) // anyString - parameter
         Console.WriteLine(anyString);
     }
 }
+
+

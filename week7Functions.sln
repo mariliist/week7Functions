@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountCalculator", "DiscountCalculator\DiscountCalculator.csproj", "{DF9839E9-EB76-48DE-984A-AF8384978A55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hindeline", "Hindeline\Hindeline.csproj", "{C1B13BCA-3902-4CDE-9CCC-ED80093F7EF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DF9839E9-EB76-48DE-984A-AF8384978A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF9839E9-EB76-48DE-984A-AF8384978A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF9839E9-EB76-48DE-984A-AF8384978A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B13BCA-3902-4CDE-9CCC-ED80093F7EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B13BCA-3902-4CDE-9CCC-ED80093F7EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B13BCA-3902-4CDE-9CCC-ED80093F7EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B13BCA-3902-4CDE-9CCC-ED80093F7EF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
