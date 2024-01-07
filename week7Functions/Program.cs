@@ -1,3 +1,29 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Are you coming or leaving? (in/out): ");
+string userChoice = Console.ReadLine();
 
+
+if (userChoice == "in")
+{
+    PrintHello();
+}
+else
+{
+    PrintGoodBye();
+}
+
+
+PrintHello();
+PrintGoodBye();
+
+
+
+static void PrintHello() // function / method
+{
+    Console.WriteLine("Hello, world!");
+
+}
+
+static void PrintGoodBye()
+{
+    Console.WriteLine("See you later, alligator");
+}
